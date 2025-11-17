@@ -8,7 +8,13 @@
         <option value="$PROJECT_DIR$/day1_spring_boot_create2/pom.xml" />
         <option value="$PROJECT_DIR$/day4_spring_boot_junit/pom.xml" />
         <option value="$PROJECT_DIR$/day4_spring_bootmybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/day5_spring_boot_mybatis_plus/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/mybatis_plus/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
